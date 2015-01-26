@@ -1,2 +1,5 @@
+Fixing Steam "OpenGL is not using direct rendering"
+  Run the steam library cleaning script in the scripts directory. This removes the extra libraries that steam "thinks" it needs that are actually old.
+
 Adding new keys for external pacman packages
-  GPG was a retard, and needed me to touch the /root/.gnuog/dirmngr_ldapservers.conf
+  GPG was a retard, and needed me to touch the /root/.gnupg/dirmngr_ldapservers.conf
